@@ -59,6 +59,11 @@ body {
   text-align: left;
   background-color: #fff; }
 
+header{
+  position: sticky;
+  top: 0;
+}
+  
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
